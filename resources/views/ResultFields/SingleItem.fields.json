@@ -80,6 +80,7 @@
     "properties.property.valueType",
     "properties.surcharge",
     "texts.*",
+    "stock.*",
     "unit.content",
     "unit.names.lang",
     "unit.names.name",

@@ -24,6 +24,12 @@
     "item.feedbackDecimal",
     "item.feedbackCount",
 
+    "variationProperties.*",
+    "images.all.urlPreview",
+    "images.all.urlSecondPreview",
+    "images.variation.urlPreview",
+    "images.variation.urlSecondPreview",
+
     "texts.lang",
     "texts.name1",
     "texts.name2",
