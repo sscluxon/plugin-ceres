@@ -112,6 +112,5 @@
     "variation.widthMM",
     "variationProperties.*",
     "tags.id",
-    "tags.names.*",
-    "stock.*"
+    "tags.names.*"
 ]
